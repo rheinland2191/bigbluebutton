@@ -9,10 +9,10 @@
       "listenOnlyMode": true,
       "forceListenOnly": false,
       "skipCheck": false,
-      "clientTitle": "BigBlueButton",
-      "appName": "BigBlueButton HTML5 Client",
+      "clientTitle": "Konsultasi Kontrak Hukum",
+      "appName": "Konsultasi Kontrak Hukum",
       "bbbServerVersion": "2.0-rc",
-      "copyright": "©2018 BigBlueButton Inc.",
+      "copyright": "©2019 Kontrakhukum.com",
       "html5ClientBuild": "HTML5_CLIENT_VERSION",
       "lockOnJoin": true,
       "basename": "/html5client",
@@ -171,7 +171,7 @@
       "WebRTCHangupRetryInterval": 2000,
       "vertoServerAddress": "HOST",
       "freeswitchProfilePassword": "1234",
-      "vertoPort": "8082",
+      "vertoPort": "8083",
       "useSIPAudio": true,
       "stunTurnServersFetchAddress": "/bigbluebutton/api/stuns",
       "mediaTag": "#remote-media",
@@ -367,7 +367,7 @@
 
     "redis": {
       "host": "127.0.0.1",
-      "post": "6379",
+      "post": "6378",
       "timeout": 5000,
       "debug": true,
       "channels": {
